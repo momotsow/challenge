@@ -1,0 +1,14 @@
+/* Float four columns side by side */
+.card {
+  float: left;
+  text-align-last: center;
+  width: 30%;
+  padding: 20px;
+  margin: 1%;
+}
+
+.cardPerson {
+  width: 100%;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
